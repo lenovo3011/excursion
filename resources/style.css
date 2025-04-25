@@ -2,15 +2,29 @@ h1 {
     text-align: center; 
     color: white;
     font-weight: 100;
-    font-size: 50px;
+    font-size: 61px;
 }
 
 h2 {text-align: center; 
     font-weight: 100;
     opacity: 0.5;
     color: white;}
-    
+        
 body {
     text-align: center;
     background-color: black;
+}
+
+.mine {
+    
+    text-align: end;
+    
+    font-weight: 100;
+    opacity: 0.5;
+    color: white; }
+
+a {
+
+    color: rgb(127, 255, 212);
+    font-size: 18px;
 }
